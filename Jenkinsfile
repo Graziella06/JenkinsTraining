@@ -22,7 +22,7 @@ pipeline{
             }
             post {
             always{
-                echo "TRALALA LA"
+                echo "TRALALA"
             }
         }
         }
